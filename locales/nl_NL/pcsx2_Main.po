@@ -29,7 +29,7 @@ msgstr "Geen reden gegeven."
 
 #: common/include/Utilities/Exceptions.h:255
 msgid "Parse error"
-msgstr "Parsefout"
+msgstr "Parseerfout"
 
 #: common/include/Utilities/Exceptions.h:279
 msgid "Your machine's hardware is incapable of running PCSX2.  Sorry dood."
